@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbylester1
-- 👀 I’m interested in Web3
+- 👀 Learning and building in web 3 .
 - 🌱 I’m currently learning Frontend and RUST.
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 You can reach me at abbylester@gmail.com
