@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abbylester1
-- 👀 Learning and building in web 3 .
-- 🌱 I’m currently learning Frontend and RUST.
-- 💞️ I’m looking to collaborate on web3 projects
+- 👀 Building in AI & web 3
+
 - 📫 You can reach me at abbylester@gmail.com
 
 <!---
