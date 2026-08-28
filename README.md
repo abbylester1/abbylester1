@@ -1,8 +1,7 @@
 ### Hi, I'm Abhinav 👋
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/abbylester1?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/Based%20in-Dubai-orange?style=for-the-badge" alt="location" />
 </p>
 
 Building AI-native products — autonomous agents, usage-based billing infra, and dev tooling that lets AI agents actually *do things* (ship code, deploy, get paid for it).
