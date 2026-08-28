@@ -46,4 +46,5 @@ Building AI-native products — autonomous agents, usage-based billing infra, an
 
 <p align="left">
   <a href="mailto:abhinav@avinyalabs.co"><img src="https://img.shields.io/badge/Email-abhinav%40avinyalabs.co-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/abhinavrsingh/"><img src="https://img.shields.io/badge/LinkedIn-abhinavrsingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
